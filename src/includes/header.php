@@ -1,4 +1,4 @@
-<?php require('includes/defaultSettings.php');?>
+<?php require('src/core/logic.php');?>
 <!DOCTYPE html>
     <html>
         <head>
